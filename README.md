@@ -4,8 +4,8 @@
 Esta es una pequeña aplicación de Android que muestra cómo pasar datos entre actividades. El usuario ingresa su nombre en la pantalla principal y, al presionar el botón "Aceptar", se muestra una segunda pantalla con un saludo personalizado.
 
 <div style="display: flex; justify-content: space-between; gap: 1rem; width: 100%; align-items: center;">
-   <img src="docs/images/Screen_MainActivity.jpg" alt="Screen de MainActivity">
-   <img src="docs/images/Screen_SaludoActivity.jpg" alt="Screen de SaludoActivity">
+   <img src="docs/images/Screen_MainActivity.jpg" alt="Screen de MainActivity" style="width: 45%;">
+   <img src="docs/images/Screen_SaludoActivity.jpg" alt="Screen de SaludoActivity" style="width: 45%;">
 </div>
 
 ## Funcionalidades
